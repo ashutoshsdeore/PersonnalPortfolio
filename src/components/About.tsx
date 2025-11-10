@@ -62,7 +62,7 @@ export default function About() {
               <span className="font-bold text-[#0FA4AF]">
                 Full Stack Developer
               </span>{" "}
-              currently pursuing my Bachelor's in Information Technology at MGM
+               and have recently graduated in Information Technology from MGM
               University. I specialize in building scalable, user-friendly
               applications that solve real-world problems.
             where I learned the importance of precision and problem-solving. That

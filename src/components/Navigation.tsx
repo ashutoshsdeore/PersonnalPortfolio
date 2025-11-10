@@ -30,7 +30,7 @@ export default function Navigation() {
             onClick={(e) => handleClick(e, "#home")}
             className="text-2xl font-extrabold text-[#0FA4AF] hover:text-white transition-all duration-300 tracking-wide"
           >
-            AD<span className="text-white">.</span>
+            Portfolio<span className="text-white">.</span>
           </a>
 
           {/* Desktop Menu */}

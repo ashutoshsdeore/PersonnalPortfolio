@@ -64,7 +64,7 @@ export default function Hero() {
             onClick={(e) => handleClick(e, "#home")}
             className="text-3xl font-extrabold tracking-wide text-[#0FA4AF] hover:text-white transition-all"
           >
-            ASHU
+           Portfolio.
           </a>
 
           <div className="hidden md:flex items-center gap-10">
